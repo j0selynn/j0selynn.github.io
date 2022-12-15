@@ -17,4 +17,5 @@ My Github page is http://github.com/j0selynn.
     Lab 6, part 1 was a favorite because I personally enjoy guessing games. Getting to make a game like this one was great because we got to utilize operators such as >, <, and ==. In the program, we also got to write fun messages such as "Great!! I'd love to play again", and "you're getting warmer/colder!"
 
 * Lab 10
+
     Lab 10, part 2 was a favorite because I though it was interesting that we could make a program that could tell us the population of counties in California. This program also had use incorporate the command push_back. It was very interesting to see how these types of commands work in the code. 
